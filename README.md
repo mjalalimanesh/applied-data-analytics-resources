@@ -6,7 +6,7 @@ Papers, Articles, and Blogs on Applied Data Science and Data Analytics
 2. [Experimentation](#Experimentation)
 
 
-## Creating a Data-Driven Organization
+## Creating a Data Driven Organization
 
 ## Experimentation
 
